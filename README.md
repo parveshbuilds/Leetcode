@@ -14,4 +14,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0443-string-compression](https://github.com/parveshbuilds/Leetcode/tree/master/0443-string-compression) |
+## Array
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/parveshbuilds/Leetcode/tree/master/0724-find-pivot-index) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/parveshbuilds/Leetcode/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
